@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tousif-izaz
-- 👀 I’m interested in Blockchain, databases, Applied data science
+- 👀 I’m interested in Blockchain, databases, Machine Learning
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Blockchain development projects, data science projects
 - 📫 Reach me at tousif_izaz@live.com
