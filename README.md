@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tousif-izaz
-- 👀 I’m interested in Blockchain, databases, Machine Learning
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Blockchain development projects, data science projects
+- 👀 I’m interested in Web Development, databases, Machine Learning
+- 🌱 I’m currently learning C++, javascript
+- 💞️ I’m looking to collaborate on web development projects related to API integrations
 - 📫 Reach me at tousif_izaz@live.com
 
 <!---
